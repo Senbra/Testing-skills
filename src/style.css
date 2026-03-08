@@ -8,3 +8,10 @@ background-color: brown;
     padding: 0px;
     margin: 0px;
 }
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: grid;
+}
